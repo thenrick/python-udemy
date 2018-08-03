@@ -1,1 +1,1 @@
-# py2
+# python-udemy courses
